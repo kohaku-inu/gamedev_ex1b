@@ -28,6 +28,12 @@ Oceania, 1984. You are an Outer Party member at the Ministry of Truth. You rewri
 - Attend mandatory events (Two Minutes Hate, exercise, rallies).
 - Spend remaining "free time" on one of three covert activity types: **Sabotage, Learn, Build**.
 
+
+- **Challenge:** Staying calm and unnoticed while doing things that, if seen, end you.
+- **Play:** Observation, timing, planning, tool-crafting, performing normality.
+- **Character:** The player-character is ordinary, frightened, capable of small defiance.
+- **Story:** Day-by-day arc: compliance → doubt → first sabotage → network → escalation → the final confrontation.
+
 ## 4. Processes (Actions the Player Can Take)
 | Category | Actions |
 |---|---|
@@ -90,18 +96,13 @@ Endings are decided by two numbers at the end state: **Suspicion** (are you free
 
 ---
 
-## 11. Dramatic Elements
-- **Challenge:** Staying calm and unnoticed while doing things that, if seen, end you.
-- **Play:** Observation, timing, planning, tool-crafting, performing normality.
-- **Character:** The player-character is ordinary, frightened, capable of small defiance.
-- **Story:** Day-by-day arc: compliance → doubt → first sabotage → network → escalation → the final confrontation.
 
-## 12. Audiovisual Direction
+## 11. Audiovisual Direction
 - **Palette rule:** Game starts nearly monochrome (grays, near-black). Color is introduced as *saturation tied to Big Brother's Power meter*, not as scripted cutscene moments. Begin with a single color (e.g., a muted red or the green of a plant) and expand.
 - **Sound:** Constant telescreen hum, propaganda loops. The sound mix also degrades as BB's power falls (static, silence, birdsong).
 - **UI:** Minimal. Suspicion should be communicated diegetically (heartbeat, vignette, hand tremor) rather than a bar. Needs playtesting for readability.
 
-## 13. Risks & Open Questions
+## 12. Risks & Open Questions
 1. **Good ending is decided** (see Outcomes). Open: how hard should it be, and should it be visible from the start that it exists?
 2. **Stealth readability:** Stealth games fail when detection feels random. Need clear cone visualization, even in a monochrome style.
 3. **Hidden Suspicion meter:** Too hidden feels unfair; too visible removes tension.
