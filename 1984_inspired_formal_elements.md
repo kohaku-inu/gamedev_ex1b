@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Premise (Dramatic Element)
+## 1. Description
 Oceania, 1984. You are an Outer Party member at the Ministry of Truth. You rewrite history by day and are expected to love Big Brother by night. You can't fight anyone. You can only blend in, and quietly dismantle the machine from inside it. Get seen once too often, and the game ends the way the book does.
 
 **Core fantasy:** Being a perfect cog while being the sand in the gears.
@@ -14,13 +14,13 @@ Oceania, 1984. You are an Outer Party member at the Ministry of Truth. You rewri
 
 ---
 
-## 2. Players
+## 2. Core Concepts
 - **Number:** Single player.
 - **Role:** One protagonist (Winston-like; the player may be Winston or an original character in the same world).
 - **Player pattern:** Player vs. System. The "opponent" is not a character but the surveillance state itself (AI patrols, telescreens, informants, a hidden global Suspicion model).
 - **Decision:** No close circle and no relationship/trust system. The player is alone. NPCs exist only as environmental hazards (coworkers, patrols, informants) and scripted information sources.
 
-## 3. Objectives
+## 3. Goals
 **Primary (long-term):** Reduce Big Brother's **Power** to zero without ever reaching maximum **Suspicion**.
 
 **Secondary (per-day):**
@@ -28,7 +28,7 @@ Oceania, 1984. You are an Outer Party member at the Ministry of Truth. You rewri
 - Attend mandatory events (Two Minutes Hate, exercise, rallies).
 - Spend remaining "free time" on one of three covert activity types: **Sabotage, Learn, Build**.
 
-## 4. Procedures (Actions the Player Can Take)
+## 4. Processes (Actions the Player Can Take)
 | Category | Actions |
 |---|---|
 | **Cover (public)** | Work at desk, rewrite records, attend events, chant, applaud, queue, eat in canteen |
